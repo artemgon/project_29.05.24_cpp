@@ -1,3 +1,3 @@
 #include "lib.h" 
 
-int GameFunction(int random_n);
+int arrayAdjustment(int array[], int size, int number);
